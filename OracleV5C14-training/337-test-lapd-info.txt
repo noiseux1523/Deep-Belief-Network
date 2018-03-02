@@ -1,0 +1,1 @@
+public object NN get VB negotiated VBN property NN string NN prop VB name NN public object get negotiated property root ROOT get amod property negotiated dobj get property string prop name root ROOT prop dobj prop name,0,NA,kafka,TN

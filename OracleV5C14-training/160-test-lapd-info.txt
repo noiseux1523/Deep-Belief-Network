@@ -1,0 +1,1 @@
+public offset VBN storage NN reader NN offset VBN storage NN reader NN public offset storage reader root ROOT reader amod reader offset compound reader storage offset storage reader root ROOT reader amod reader offset compound reader storage,0,NA,kafka,TN

@@ -1,0 +1,1 @@
+w NN write VB state NN address NN w NN window NN w write state address root ROOT write compound address state dobj write address w window,0,NA,beam,TN

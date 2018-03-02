@@ -1,0 +1,1 @@
+private static void print NN transformation NN html NN print NN stream NN out IN doc NN info NN doc NN info NN private static void print transformation html root ROOT html compound html print compound html transformation print stream root ROOT stream compound stream print out doc info root ROOT info compound info doc doc info root ROOT info compound info doc,0,NA,kafka,TN

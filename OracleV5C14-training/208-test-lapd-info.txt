@@ -1,0 +1,1 @@
+private static final string NN odt NN file NN with IN min NN text NN len NN private static final string odt file with min text len root ROOT file compound file odt case len with compound len min compound len text nmod with file len,1,D1,beam,TP

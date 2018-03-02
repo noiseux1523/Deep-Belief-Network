@@ -1,0 +1,1 @@
+abstract builder NN t NN set VBN max NN files NNS per IN bundle NN integer NN max NN files NNS per IN bundle NN abstract builder t set max files per bundle root ROOT set compound files max dobj set files case bundle per nmod per files bundle integer max files per bundle root ROOT files compound files max case bundle per nmod per files bundle,1,A3,beam,TP

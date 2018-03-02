@@ -1,0 +1,1 @@
+protected boolean local JJ is VBZ within IN final vector NN v LS protected boolean local is within root ROOT within nsubj within local cop within is final vector v,0,NA,lucene,TN

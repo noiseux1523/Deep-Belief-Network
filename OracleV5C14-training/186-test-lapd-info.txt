@@ -1,0 +1,1 @@
+the DT set NN of IN known VBN output NN tags NNS private final set NN tuple NN tag NN output NN tags NNS the set of known output tags private final set tuple tag root ROOT tag compound tag tuple output tags root ROOT tags compound tags output set tags ANTONYM ANTONYM,0,NA,beam,TN

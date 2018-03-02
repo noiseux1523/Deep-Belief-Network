@@ -1,0 +1,1 @@
+bool NN get VB sub JJ keys NNS c NN string NN list NN subkeys NNS returns NNS the DT list NN of IN sub NN keys NNS bool get sub keys root ROOT get amod keys sub dobj get keys c string list root ROOT list compound list c compound list string subkeys returns the list of sub keys list keys ANTONYM ANTONYM,1,B6,javacv,TP

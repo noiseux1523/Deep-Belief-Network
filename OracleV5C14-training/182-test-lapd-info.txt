@@ -1,0 +1,1 @@
+public w NN get VB window NN public w get window root ROOT get dobj get window,0,NA,beam,TN

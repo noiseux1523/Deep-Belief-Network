@@ -1,0 +1,1 @@
+public void visit NN int doc NN id NN public void visit int doc id root ROOT id compound id doc,0,NA,lucene,TN

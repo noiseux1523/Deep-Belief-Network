@@ -1,0 +1,1 @@
+private final boolean classes NNS private final boolean classes,1,e1,junit,TP

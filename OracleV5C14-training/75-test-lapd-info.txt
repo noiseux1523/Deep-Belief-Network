@@ -1,0 +1,1 @@
+true JJ if all DT entries NNS are VBP terms NNS boolean is VBZ leaf NN block NN true if all entries are terms boolean is leaf block root ROOT block cop block is compound block leaf,0,NA,lucene,TN

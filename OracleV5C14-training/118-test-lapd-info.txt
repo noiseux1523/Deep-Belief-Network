@@ -1,0 +1,1 @@
+This method NN returns NNS the DT internal JJ heap NN array NN as IN object NN protected final object NN get VB heap NN array NN This method returns the internal heap array as object protected final object get heap array root ROOT get compound array heap dobj get array,0,NA,maven,TN

@@ -1,0 +1,1 @@
+boolean set VBN value NN object NN value NN scriptable JJ owner NN scriptable JJ start NN boolean set value root ROOT set dobj set value object value scriptable owner scriptable start,1,a3,rhino,TP

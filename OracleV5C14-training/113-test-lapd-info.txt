@@ -1,0 +1,1 @@
+public int compare VB bottom NN int doc NN throws io NN exception NN public int compare bottom root ROOT compare dobj compare bottom int doc throws io exception root ROOT exception compound exception io,0,NA,lucene,TN

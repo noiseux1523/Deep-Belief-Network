@@ -1,0 +1,1 @@
+final boolean any DT auto NN prefix NN terms NNS final boolean any auto prefix terms root ROOT terms det terms any compound terms auto compound terms prefix,1,e1,lucene,TP

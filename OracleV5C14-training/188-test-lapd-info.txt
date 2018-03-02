@@ -1,0 +1,1 @@
+public void process NN element NN windowed JJ value NN input NN t NN compressed VBN elem NN public void process element root ROOT element compound element process windowed value root ROOT value amod value windowed input t root ROOT t compound t input compressed elem root ROOT elem amod elem compressed,0,NA,beam,TN

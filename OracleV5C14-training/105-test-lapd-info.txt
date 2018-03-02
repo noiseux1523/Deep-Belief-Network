@@ -1,0 +1,1 @@
+public weighted JJ span NN term NN float weight NN string NN term NN boolean position NN sensitive JJ public weighted span term root ROOT term amod term weighted compound term span float weight string term boolean position sensitive root ROOT sensitive nmod npmod sensitive position,0,NA,lucene,TN

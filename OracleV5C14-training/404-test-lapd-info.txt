@@ -1,0 +1,1 @@
+public abstract JJ processor NN abstract JJ endpoint NN endpoint NN public abstract processor root ROOT processor amod processor abstract abstract endpoint root ROOT endpoint amod endpoint abstract endpoint,0,NA,tomcat,TN

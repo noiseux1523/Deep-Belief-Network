@@ -1,0 +1,1 @@
+static final string NN expected VBN result NN static final string expected result root ROOT result amod result expected,1,D1,beam,TP

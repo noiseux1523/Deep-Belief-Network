@@ -1,0 +1,1 @@
+java NN adapter NN signature NN Class super JJ class NN Class interfaces NNS obj NN to TO int VB map NN names NNS java adapter signature root ROOT signature compound signature java compound signature adapter Class super class root ROOT class amod class super Class interfaces obj to int map root ROOT obj mark int to acl to obj int dobj int map names,0,NA,rhino,TN

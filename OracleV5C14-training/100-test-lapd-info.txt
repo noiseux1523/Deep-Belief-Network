@@ -1,0 +1,1 @@
+void set VBN score NN float score NN void set score root ROOT set dobj set score float score,0,NA,lucene,TN

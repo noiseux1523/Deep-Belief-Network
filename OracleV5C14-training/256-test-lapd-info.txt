@@ -1,0 +1,1 @@
+auto NN prefix NN terms NNS public static final int version NN auto NN prefix NN terms NNS auto prefix root ROOT prefix compound prefix auto terms public static final int version auto prefix terms root ROOT terms compound terms version compound terms auto compound terms prefix,1,e1,lucene,TP

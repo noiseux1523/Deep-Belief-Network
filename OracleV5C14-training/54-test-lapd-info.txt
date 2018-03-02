@@ -1,0 +1,1 @@
+public void java NN to TO native JJ object NN object NN transfer NN data NNS transfer NN data NNS public void java to native root ROOT java case native to nmod to java native object object transfer data root ROOT data compound data transfer transfer data root ROOT data compound data transfer,1,b5,argouml,TP

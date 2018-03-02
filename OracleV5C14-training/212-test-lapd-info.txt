@@ -1,0 +1,1 @@
+abstract builder NN k NN v LS set VBN configuration NN serializable JJ configuration NN configuration NN abstract builder k v set configuration root ROOT set dobj set configuration serializable configuration root ROOT configuration amod configuration serializable configuration k v SYNONYM SYNONYM,1,A3,beam,TP

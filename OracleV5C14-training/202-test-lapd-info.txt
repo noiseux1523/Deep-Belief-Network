@@ -1,0 +1,1 @@
+public metric JJ name NN get VB name NN public metric name root ROOT name amod name metric get name root ROOT get dobj get name,0,NA,beam,TN

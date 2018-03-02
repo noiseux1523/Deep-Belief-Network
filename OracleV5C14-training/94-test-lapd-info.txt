@@ -1,0 +1,1 @@
+public long get VB sum NN total JJ term NN freq NN public long get sum total term freq root ROOT get compound freq sum amod freq total compound freq term dobj get freq,0,NA,lucene,TN

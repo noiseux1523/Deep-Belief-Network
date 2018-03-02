@@ -1,0 +1,1 @@
+private final char NN term NN attribute NN term NN attr NN private final char term attribute root ROOT attribute compound attribute char compound attribute term term attr root ROOT attr compound attr term,0,NA,lucene,TN

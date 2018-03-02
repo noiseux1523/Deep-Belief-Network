@@ -1,0 +1,1 @@
+void ensure VB window NN exists VBZ w NN window NN void ensure window exists root ROOT exists csubj exists ensure dobj ensure window w window,1,B2,beam,TP

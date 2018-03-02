@@ -1,0 +1,1 @@
+public mutable JJ value NN duplicate VB public mutable value root ROOT value amod value mutable duplicate,0,NA,lucene,TN

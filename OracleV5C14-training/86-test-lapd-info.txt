@@ -1,0 +1,1 @@
+private pending VBG term NN last JJ pending JJ term NN private pending term root ROOT term amod term pending last pending term root ROOT term amod term last amod term pending,0,NA,lucene,TN

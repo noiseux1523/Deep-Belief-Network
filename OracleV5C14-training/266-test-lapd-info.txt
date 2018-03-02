@@ -1,0 +1,1 @@
+maximum NN per IN dim NN values NNS packed JJ protected final byte max NN packed VBD value NN maximum per dim root ROOT dim case dim per values packed protected final byte max packed value root ROOT packed nsubj packed max dobj packed value,1,D1,lucene,TP

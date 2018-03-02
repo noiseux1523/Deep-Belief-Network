@@ -1,0 +1,1 @@
+private static final string NN jaas NN user NN prefix NN user NN private static final string jaas user prefix root ROOT prefix compound prefix jaas compound prefix user user,0,D2,kafka,FP

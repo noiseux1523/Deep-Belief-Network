@@ -1,0 +1,1 @@
+private boolean is VBZ wildcard NN char NN sequence NN text NN private boolean is wildcard root ROOT wildcard cop wildcard is char sequence root ROOT sequence compound sequence char text,0,NA,lucene,TN

@@ -1,0 +1,1 @@
+private final fixed VBN bit NN set NN result NN private final fixed bit set root ROOT set amod set fixed compound set bit result,1,D1,lucene,TP

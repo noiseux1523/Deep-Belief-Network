@@ -1,0 +1,1 @@
+abstract builder NN k NN v LS set VBN key JJ translation NN function NN simple JJ function NN k NN function NN abstract builder k v set key translation function root ROOT set amod function key compound function translation dobj set function simple function root ROOT function amod function simple k function k v SYNONYM SYNONYM,1,A3,beam,TP

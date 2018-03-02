@@ -1,0 +1,1 @@
+public static final storage NN level NN memory NN only RB create VB false JJ true JJ false JJ true JJ public static final storage level root ROOT level compound level storage memory only root ROOT memory advmod memory only create false true false true false true ANTONYM ANTONYM,0,NA,spark,TN

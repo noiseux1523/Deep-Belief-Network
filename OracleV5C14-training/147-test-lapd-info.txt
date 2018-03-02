@@ -1,0 +1,1 @@
+private print NN stream NN output NN stream NN private print stream root ROOT stream compound stream print output stream root ROOT stream compound stream output,0,NA,kafka,TN

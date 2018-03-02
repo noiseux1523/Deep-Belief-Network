@@ -1,0 +1,1 @@
+private static final logger NN log NN logger NN factory NN get VB logger NN MockConnector class private static final logger log logger factory get logger root ROOT get compound factory logger nsubj get factory dobj get logger MockConnector class,0,NA,kafka,TN

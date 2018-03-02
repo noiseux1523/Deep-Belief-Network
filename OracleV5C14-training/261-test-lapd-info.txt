@@ -1,0 +1,1 @@
+build VB reverse NN index NN from IN every DT th DT term NN static final int reverse JJ interval NN shift NN build reverse index from every th term static final int reverse interval shift root ROOT shift amod shift reverse compound shift interval,0,NA,lucene,TN

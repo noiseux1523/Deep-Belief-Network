@@ -1,0 +1,1 @@
+public iterable JJ map NN entry NN k NN t NN entries NNS public iterable map entry root ROOT entry compound entry map k t entries,0,NA,beam,TN

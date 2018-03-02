@@ -1,0 +1,1 @@
+protected final state NN context NN w NN context NN protected final state context root ROOT context compound context state w context,0,NA,beam,TN

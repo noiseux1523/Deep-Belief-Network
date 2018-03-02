@@ -1,0 +1,1 @@
+static final type NN descriptor NN message NN message NN type NN new type NN descriptor NN message NN static final type descriptor root ROOT descriptor compound descriptor type message message type root ROOT type compound type message new type descriptor root ROOT descriptor compound descriptor type message,0,NA,beam,TN

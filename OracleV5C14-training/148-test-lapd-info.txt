@@ -1,0 +1,1 @@
+public file NN stream NN sink NN task NN print NN stream NN output NN stream NN public file stream sink task root ROOT task compound task file compound task stream compound task sink print stream root ROOT stream compound stream print output stream root ROOT stream compound stream output,0,NA,kafka,TN

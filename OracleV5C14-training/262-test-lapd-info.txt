@@ -1,0 +1,1 @@
+private final terms NNS enum VBP with IN slice NN top NN private final terms enum with slice root ROOT enum nsubj enum terms case slice with nmod with enum slice top,1,D1,lucene,TP

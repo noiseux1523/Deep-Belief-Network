@@ -1,0 +1,1 @@
+public static object NN set VBN object NN index NN object NN obj NN double dbl NN index NN object NN value NN context NN cx NN public static object set object index root ROOT set compound index object dobj set index object obj double dbl index root ROOT index compound index dbl object value context cx,1,a3,rhino,TP

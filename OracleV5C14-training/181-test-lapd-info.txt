@@ -1,0 +1,1 @@
+private static final string NN window NN format NN s NNS private static final string window format root ROOT format compound format window s,0,NA,beam,TN

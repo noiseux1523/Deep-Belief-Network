@@ -1,0 +1,1 @@
+writes VBZ the DT bkd NN tree NN to TO the DT provided VBN writes the bkd tree to the provided,0,C2,lucene,FP

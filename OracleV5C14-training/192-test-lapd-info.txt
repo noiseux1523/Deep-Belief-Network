@@ -1,0 +1,1 @@
+public state NN state NN string NN state NN id NN public state state string state id root ROOT id compound id state,0,NA,beam,TN

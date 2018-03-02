@@ -1,0 +1,1 @@
+final string NN transformation NN name NN final string transformation name root ROOT name compound name transformation,0,NA,kafka,TN

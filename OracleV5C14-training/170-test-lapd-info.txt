@@ -1,0 +1,1 @@
+public void set VBN timer NN instant NN timestamp NN time NN domain NN time NN domain NN public void set timer root ROOT set dobj set timer instant timestamp time domain root ROOT domain compound domain time time domain root ROOT domain compound domain time,0,NA,beam,TN

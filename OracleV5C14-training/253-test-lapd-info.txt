@@ -1,0 +1,1 @@
+public final int doc NN id NN public final int doc id root ROOT id compound id doc,0,NA,lucene,TN

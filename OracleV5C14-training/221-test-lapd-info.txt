@@ -1,0 +1,1 @@
+public configuration NN get VB public configuration get,0,NA,beam,TN

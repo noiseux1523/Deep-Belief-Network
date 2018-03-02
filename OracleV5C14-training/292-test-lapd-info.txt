@@ -1,0 +1,1 @@
+private static final string NN brokers NNS key JJ name NN brokers NNS private static final string brokers key name root ROOT name compound name brokers amod name key brokers,0,NA,kafka,TN
